@@ -1,10 +1,10 @@
 ![Sentry Dynamics, Inc.](https://clients.sentrydynamics.net/sentry_logo_2014.jpg)
 
-# Sentry Dynamics, Inc.
+# Sentry Dynamics, Inc. Development Resources
 
 * [Learn More](https://sentrydynamics.com/)
 * [geoAdvantage](https://clients.sentrydynamics.net/)
-* [geoAdvantage RESTful API](https://clients.sentrydynamics.net/swagger)
+* [geoAdvantage REST API](https://clients.sentrydynamics.net/swagger)
 <!---
 # Sentry Dynamics, Inc.
 --->
