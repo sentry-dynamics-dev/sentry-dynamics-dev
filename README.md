@@ -1,6 +1,8 @@
 ![Sentry Dynamics, Inc.](https://sentrydynamics.com/wp-content/uploads/2022/02/logo.svg)
 
 * [Learn More](https://sentrydynamics.com/)
+* [geoAdvantage](https://clients.sentrydynamics.net/)
+* [geoAdvantage RESTful API](https://clients.sentrydynamics.net/swagger)
 <!---
 # Sentry Dynamics, Inc.
 --->
