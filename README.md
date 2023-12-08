@@ -1,4 +1,4 @@
-![Sentry Dynamics, Inc.]([https://sentrydynamics.com/wp-content/uploads/2022/02/logo.svg](https://clients.sentrydynamics.net/sentry_logo_2014.jpg))                                                    
+![Sentry Dynamics, Inc.](https://clients.sentrydynamics.net/sentry_logo_2014.jpg)                     
 
 # Sentry Dynamics, Inc.
 
