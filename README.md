@@ -1,4 +1,6 @@
-![Sentry Dynamics, Inc.](https://sentrydynamics.com/wp-content/uploads/2022/02/logo.svg)
+![Sentry Dynamics, Inc.](https://sentrydynamics.com/wp-content/uploads/2022/02/logo.svg)                                                    
+
+# Sentry Dynamics, Inc.
 
 * [Learn More](https://sentrydynamics.com/)
 * [geoAdvantage](https://clients.sentrydynamics.net/)
